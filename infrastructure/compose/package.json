@@ -1,7 +1,7 @@
 {
   "name": "riteway-fs-snapshots",
   "description": "Snapshot test runner useful for filesystem scripts like template generators.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Sartaj<sartaj@sartaj.me>",
   "license": "MIT",
   "homepage": "https://github.com/sartaj/riteway-fs-snapshots#readme",
